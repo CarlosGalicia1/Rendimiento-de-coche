@@ -12,7 +12,7 @@ Los valores del aumento de desempeño de las partes del coche son arbitrarias y 
 
 El programa fue realizado con el lenguaje de programación c++ standard.
 
-Colocar la carpeta con las clases en la misma ubicacion que el archivo cpp.
+Colocar la carpeta "clases" en la misma ubicacion que el archivo cpp.
 
 Compilar programa en Windows con: "g++ rendimiento_de_auto.cpp -o rendimiento_de_auto.exe".
 
