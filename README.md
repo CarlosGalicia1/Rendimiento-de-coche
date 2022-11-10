@@ -9,8 +9,13 @@ En caso de que el usuario decida modificar el coche se despliega un menu con las
 
 ### Consideraciones
 Los valores del aumento de desempeño de las partes del coche son arbitrarias y no representan un aumento preciso basado en la realidad.
-El programa fue realizado con el lenguaje de programación c++ standard
-Colocar la carpeta con las clases en la misma ubicacion que el archivo cpp
-Compilar programa en Windows con: "g++ rendimiento_de_auto.cpp -o rendimiento_de_auto.exe" 
-Ejecutar en Windows con: "rendimiento_de_auto.exe"
-Ejecutar en Linux con: "rendimiento_de_auto.out"
+
+El programa fue realizado con el lenguaje de programación c++ standard.
+
+Colocar la carpeta con las clases en la misma ubicacion que el archivo cpp.
+
+Compilar programa en Windows con: "g++ rendimiento_de_auto.cpp -o rendimiento_de_auto.exe".
+
+Ejecutar en Windows con: "rendimiento_de_auto.exe".
+
+Ejecutar en Linux con: "rendimiento_de_auto.out".
