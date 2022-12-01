@@ -20,3 +20,6 @@ Compilar programa en Windows con: "g++ rendimiento_de_auto.cpp -o rendimiento_de
 Ejecutar en Windows con: "rendimiento_de_auto.exe".
 
 Ejecutar en Linux con: "rendimiento_de_auto.out".
+
+### Correcciones
+Se corrigió el diagrama de clases para incluir el concepto de herencia a las clases de "Deportivo.h", "Camper.h" y "Familiar.h" por parte de la clase "Automovil.h" en la carpeta de clases. Esto con el objetivo de cambiar el indicador "Utilizo el concepto de herencia en el diagrama de clases de manera adecuada." de la competencia de "Toma de decisiones".
